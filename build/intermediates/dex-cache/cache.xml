@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\build\intermediates\pre-dexed\debug\android-smart-image-view-1.0.0-d7551be221474537e634d00fd1419ad155aef1d8.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\libs\android-smart-image-view-1.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\build\intermediates\pre-dexed\debug\classes-dc4b96365a561a5e3b2d3917fa3c48c8309102c0.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\build\intermediates\pre-dexed\debug\support-v4-19.1.0-172c13a5cddbe5e073448e91f2e7c97c09bca6bb.jar"
+        jar="C:\Program Files\Android\android-studio3\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-2ccf740c1c0c6557384ceef39bee1772df23da32.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\build\intermediates\pre-dexed\debug\picasso-2.3.2-b6727c93da2c1482adecdfb99d25085dbcc5a876.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\libs\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\build\intermediates\pre-dexed\debug\android-async-http-1.4.3-4360d9c5fbfe750797f26b5c2a1e28abdb8269dd.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\libs\android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8"/>
+    <item
+        dex="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\build\intermediates\pre-dexed\debug\android-support-v4-e8ebbde1addb55b01b92441e0fdf855e3cdb9b1b.jar"
+        jar="C:\Users\Ejer\AndroidStudioProjects\GridImageSearch\GridImageSearch\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd"/>
+
+</pre-dex-items>
